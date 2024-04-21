@@ -1,6 +1,6 @@
-# TimeMathMaster
+# Time_Math_Master
 
-Welcome to TimeMathMaster, a fun and challenging math quiz game designed to test your arithmetic skills under time pressure. This project is perfect for both casual users looking to improve their math skills and developers interested in creating a simple yet engaging application.
+Welcome to Time_Math_Master, a fun and challenging math quiz game designed to test your arithmetic skills under time pressure. This project is perfect for both casual users looking to improve their math skills and developers interested in creating a simple yet engaging application.
 
 ## Features
 
@@ -11,7 +11,7 @@ Welcome to TimeMathMaster, a fun and challenging math quiz game designed to test
 
 ## Getting Started
 
-To get started with TimeMathMaster, follow these steps:
+To get started with Time_Math_Master, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
@@ -35,7 +35,7 @@ If you have any questions or suggestions, feel free to reach out.
 
 ## Acknowledgments
 
-- Thanks to all contributors who have helped improve TimeMathMaster.
+- Thanks to all contributors who have helped improve Time_Math_Master.
 - Special thanks to the Python community for their support and resources.
 
 Join us in making TimeMathMaster the ultimate math challenge game!
