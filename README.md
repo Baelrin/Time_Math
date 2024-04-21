@@ -38,4 +38,4 @@ If you have any questions or suggestions, feel free to reach out.
 - Thanks to all contributors who have helped improve Time_Math_Master.
 - Special thanks to the Python community for their support and resources.
 
-Join us in making TimeMathMaster the ultimate math challenge game!
+Join us in making Time_Math_Master the ultimate math challenge game!
